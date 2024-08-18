@@ -1,5 +1,3 @@
-I also acquired some additional skills along the way, for the sake of documenting this project - I embarked on a journey to explore the creation of GIF animations.
-
 > [!NOTE]
 > Installation guide for macOS (Using Homebrew):
 
